@@ -27,59 +27,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[KLA](https://www.kla.com/)**
-  Leading semiconductor process-control company providing inspection, metrology, analytics, process-control and yield-management technologies for semiconductor manufacturing.
+| Platform / Product | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[KLA](https://www.kla.com/)** | Leading semiconductor process-control company providing inspection, metrology, analytics, process-control and yield-management technologies for semiconductor manufacturing. | Starts at ~$50,000/year (enterprise baseline entry tier) | 30-day proof-of-concept evaluation pilot (limited to 1 module or 1 line qualification) |
+| **[KLA SPC](https://www.kla.com/)** | Semiconductor statistical process-control capabilities supporting monitoring of process measurements, control limits, excursions, trends and manufacturing quality. | Starts at ~$25,000/year (starting analytics software tier) | 28-day (4-week) fixed-scope evaluation sprint (limited to 1 tool group / pilot dataset) |
+| **[Onto Innovation](https://ontoinnovation.com/)** | Semiconductor process-control company providing inspection, metrology, process-control and software solutions for wafer and advanced-packaging manufacturing. | Starts at ~$40,000/year (entry software suite package) | 30-day guided evaluation / software proof-of-concept demo environment |
+| **[Onto Innovation Discover](https://ontoinnovation.com/)** | Process-control and data-analysis environment supporting semiconductor manufacturing measurements, inspection, metrology and process optimization. | Starts at ~$20,000/year (baseline yield analytics tier) | 30-day evaluation trial (limited to offline dataset analysis and pilot tool matching) |
+| **[Applied Materials SmartFactory](https://www.appliedmaterials.com/)** | Digital manufacturing ecosystem connecting semiconductor equipment, factory data, analytics, automation and process-control workflows to improve fab productivity and yield. | Starts at ~$60,000/year (entry fab deployment starter tier) | 30-day sandbox pilot evaluation (limited to single-bay simulator dataset) |
+| **[PDF Solutions Exensio](https://www.pdf.com/)** | Manufacturing analytics platform for semiconductor and electronics manufacturing that integrates yield, test, metrology, equipment and process data for root-cause analysis, quality and yield improvement. | Starts at ~$25,000/year (or ~$2,000/month baseline cloud tier) | Free Forever plan (Offline Analytics Sandbox with limited features) / 30-day evaluation trial (full SaaS cloud workspace) |
+| **[CamLine LineWorks](https://www.camline.com/)** | Manufacturing quality and process-control software suite with LineWorks SPACE providing enterprise SPC, control charts, statistical analysis and centralized manufacturing quality management. | Starts at ~$15,000/year (or ~$1,250/month entry server license) | 30-day evaluation trial (up to 5 concurrent user seats, limited sample fab database) |
+| **[Siemens Opcenter Quality](https://www.siemens.com/)** | Quality-management and statistical process-control platform supporting shop-floor inspections, process monitoring, deviation management, quality analysis and corrective actions. | Starts at ~$1,200/user/year (or ~$100/user/month starting tier) | 30-day free trial (full preconfigured cloud environment, single-user limit) |
+| **[Siemens Opcenter Execution Semiconductor](https://www.siemens.com/)** | Semiconductor-focused MES platform connecting manufacturing execution, equipment integration, quality, traceability, process control, analytics and yield-related workflows. | Starts at ~$10,000/month (or ~$120,000/year entry fab site deployment) | 30-day trial environment via Siemens Xcelerator Academy / Opcenter X sandbox |
+| **[InfinityQS ProFicient](https://www.infinityqs.com/)** | Enterprise manufacturing quality platform providing real-time SPC, data collection, process monitoring, quality analytics and centralized statistical quality management. | Starts at ~$75/user/month (or ~$900/user/year baseline cloud tier) | 14-day free trial (up to 3 admin user logins, 100 SPC chart streams limit) |
+| **[DataLyzer](https://www.datalyzer.com/)** | Manufacturing quality and SPC software providing statistical process control, measurement data collection, capability analysis, quality reporting and process monitoring. | Starts at ~$1,495 one-time license fee (or ~$125/user/month) | 30-day free trial (full module features, up to 5 local workstation licenses) |
+| **[Qualis SPC](https://www.qualis-spc.com/)** | Statistical process-control platform supporting data acquisition, control charts, process capability, alarms, quality analysis and manufacturing process monitoring. | Starts at ~$1,295 one-time license fee (or ~$105/user/month) | 30-day free trial (up to 3 production station monitors, full SPC charting tools) |
+| **[Q-DAS](https://www.q-das.com/)** | Manufacturing quality and statistical-analysis software ecosystem providing SPC, measurement-data management, process capability analysis, statistical evaluation and quality reporting. | Starts at ~$2,500/user license (plus ~18% annual maintenance fee) | 90-day (3-month) trial license (available upon sales request, full analytical capabilities) |
+| **[Honeywell Manufacturing Intelligence](https://www.honeywell.com/)** | Industrial manufacturing software and analytics ecosystem supporting process monitoring, production data, quality management, automation and manufacturing intelligence. | Starts at ~$15,000/year (entry Forge industrial cloud platform tier) | 30-day guided cloud evaluation (limited to 5 connected sensor streams / 1 plant area) |
+| **[Rockwell Automation FactoryTalk](https://www.rockwellautomation.com/)** | Industrial software ecosystem providing manufacturing analytics, production monitoring, quality and process data integration. | Starts at ~$3,000/year (or ~$250/month starter subscription; ~$5,000/year for Developer Toolkit) | 30-day free trial license (90-day free trial for FactoryTalk Remote Access & Optix Cloud Studio) |
+| **[AVEVA Manufacturing](https://www.aveva.com/)** | Industrial software platform providing MES, manufacturing intelligence, process analytics, visualization and production-quality capabilities. | Starts at ~$5,000/year (Flex subscription credit entry package) | 30-day free trial (InTouch HMI & cloud analytics trial with built-in 2-hour runtime demo mode) |
+| **[AspenTech](https://www.aspentech.com/)** | Industrial software provider offering process optimization, manufacturing analytics, asset performance and advanced process-control technologies. | Starts at ~$20,000/year (token-based enterprise entry pool) | Free Online Interactive Trial (guided web-browser sandbox sessions, 14-day token test drive) |
+| **[Emerson](https://www.emerson.com/)** | Industrial automation and process-control ecosystem providing manufacturing data infrastructure, advanced control, analytics and operational intelligence. | Starts at ~$6,000/year (DeltaV Flex subscription tier starting at 50 Device Signal Tags) | 30-day evaluation trial environment (via Emerson certified partner sandbox, limited to 50 DSTs) |
 
-* **[KLA SPC](https://www.kla.com/)**
-  Semiconductor statistical process-control capabilities supporting monitoring of process measurements, control limits, excursions, trends and manufacturing quality.
-
-* **[Onto Innovation](https://ontoinnovation.com/)**
-  Semiconductor process-control company providing inspection, metrology, process-control and software solutions for wafer and advanced-packaging manufacturing.
-
-* **[Onto Innovation Discover](https://ontoinnovation.com/)**
-  Process-control and data-analysis environment supporting semiconductor manufacturing measurements, inspection, metrology and process optimization.
-
-* **[Applied Materials SmartFactory](https://www.appliedmaterials.com/)**
-  Digital manufacturing ecosystem connecting semiconductor equipment, factory data, analytics, automation and process-control workflows to improve fab productivity and yield.
-
-* **[PDF Solutions Exensio](https://www.pdf.com/)**
-  Manufacturing analytics platform for semiconductor and electronics manufacturing that integrates yield, test, metrology, equipment and process data for root-cause analysis, quality and yield improvement.
-
-* **[CamLine LineWorks](https://www.camline.com/)**
-  Manufacturing quality and process-control software suite with LineWorks SPACE providing enterprise SPC, control charts, statistical analysis and centralized manufacturing quality management.
-
-* **[Siemens Opcenter Quality](https://www.siemens.com/)**
-  Quality-management and statistical process-control platform supporting shop-floor inspections, process monitoring, deviation management, quality analysis and corrective actions.
-
-* **[Siemens Opcenter Execution Semiconductor](https://www.siemens.com/)**
-  Semiconductor-focused MES platform connecting manufacturing execution, equipment integration, quality, traceability, process control, analytics and yield-related workflows.
-
-* **[InfinityQS ProFicient](https://www.infinityqs.com/)**
-  Enterprise manufacturing quality platform providing real-time SPC, data collection, process monitoring, quality analytics and centralized statistical quality management.
-
-* **[DataLyzer](https://www.datalyzer.com/)**
-  Manufacturing quality and SPC software providing statistical process control, measurement data collection, capability analysis, quality reporting and process monitoring.
-
-* **[Qualis SPC](https://www.qualis-spc.com/)**
-  Statistical process-control platform supporting data acquisition, control charts, process capability, alarms, quality analysis and manufacturing process monitoring.
-
-* **[Q-DAS](https://www.q-das.com/)**
-  Manufacturing quality and statistical-analysis software ecosystem providing SPC, measurement-data management, process capability analysis, statistical evaluation and quality reporting.
-
-* **[Honeywell Manufacturing Intelligence](https://www.honeywell.com/)**
-  Industrial manufacturing software and analytics ecosystem supporting process monitoring, production data, quality management, automation and manufacturing intelligence.
-
-* **[Rockwell Automation FactoryTalk](https://www.rockwellautomation.com/)**
-  Industrial software ecosystem providing manufacturing analytics, production monitoring, quality and process data integration.
-
-* **[AVEVA Manufacturing](https://www.aveva.com/)**
-  Industrial software platform providing MES, manufacturing intelligence, process analytics, visualization and production-quality capabilities.
-
-* **[AspenTech](https://www.aspentech.com/)**
-  Industrial software provider offering process optimization, manufacturing analytics, asset performance and advanced process-control technologies.
-
-* **[Emerson](https://www.emerson.com/)**
-  Industrial automation and process-control ecosystem providing manufacturing data infrastructure, advanced control, analytics and operational intelligence.
 
 ## Open-Source GitHub Projects
 
